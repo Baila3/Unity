@@ -7,5 +7,6 @@ public class LogicScript : MonoBehaviour
 {
     public int playerScore;
     public Text scoreText;
+    public int BigScore;
 
 }
