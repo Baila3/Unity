@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PipeMiddleScript : MonoBehaviour
 {
+    //reference to LogicScript
     public LogicScript logic;
     // Start is called before the first frame update
     void Start()
