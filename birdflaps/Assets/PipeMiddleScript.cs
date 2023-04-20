@@ -9,6 +9,7 @@ public class PipeMiddleScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        AddComponentMenu 
         logic = GameObject.FindGameObjectWithTag("Logic").GetComponent<LogicScript>();
 
     }
